@@ -10,36 +10,47 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Perfil | Evidencia | GitHub |
 |---|---|---|---|
-| <Nombre> | <Negocio / Datos / Desarrollo> | [<proyecto>](evidencias/<carpeta>/) | [@usuario](https://github.com/usuario) |
-| | | | |
+| <Nombre> | <Negocio / Datos / Desarrollo> | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@usuario](https://github.com/usuario) |
+| <Nombre> | | | |
+| <Nombre> | | | |
 
 ---
 
 ## Evidencias
 
-Cada carpeta documenta un proyecto real con la misma estructura: el problema de negocio,
-el análisis que lo precedió, la solución, los indicadores con que se evaluó, y sus
+Cada carpeta documenta un proyecto con la misma estructura: el problema de negocio, el
+análisis que lo precedió, la solución, los indicadores con que se evaluó y sus
 limitaciones.
 
-### <Proyecto 1>
-<Una frase: qué problema resolvía y para quién.>
-<Un resultado concreto con número.>
-→ [Ver documentación](evidencias/<carpeta>/) · [Ver demo](<URL>)
+### Asistente comercial de WhatsApp — Agrovicman
+Un productor de café de especialidad vendía por WhatsApp atendido por una sola persona:
+respuestas fuera de horario perdidas, precios inconsistentes entre clientes y stock
+repartido en dos ciudades. El asistente responde al instante con el precio correcto
+tomado del inventario, respeta un piso de negociación y devuelve la conversación a la
+dueña cuando hace falta.
 
-### <Proyecto 2>
-<Una frase.>
-<Un resultado.>
-→ [Ver documentación](evidencias/<carpeta>/)
+**Segundo puesto** en hackathon. Construido y funcional.
+
+→ [Ver documentación](evidencias/daniel-agrovicman-whatsapp/)
+
+### Cortex — La Secuencia
+<Una frase: qué problema resuelve y para quién.>
+<Un resultado concreto.>
+
+→ [Ver documentación](evidencias/daniel-cortex/)
+
+### <Evidencia de otro integrante>
+<Pendiente.>
 
 ---
 
 ## Sobre los datos
 
-<Declarar aquí, por proyecto: datos reales anonimizados, sintéticos, o públicos. Los
-proyectos con datos sintéticos están marcados como tales en su ficha.>
+Los proyectos aquí documentados describen arquitectura y decisiones de diseño. Ninguno
+publica credenciales, endpoints, identificadores de bases de datos, datos de contacto ni
+información comercial de los clientes involucrados.
 
-Ningún proyecto publicado aquí contiene información de clientes, credenciales ni material
-bajo acuerdo de confidencialidad.
+Las evidencias que usan datos sintéticos lo declaran en su propia ficha.
 
 ---
 
@@ -52,4 +63,4 @@ evidencias/
     capturas/      evidencia visual
 ```
 
-Los integrantes del equipo: ver [CONTRIBUTING.md](CONTRIBUTING.md).
+Integrantes del equipo: ver [CONTRIBUTING.md](CONTRIBUTING.md).
