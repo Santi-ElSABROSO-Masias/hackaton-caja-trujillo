@@ -34,8 +34,13 @@ dueña cuando hace falta.
 → [Ver documentación](evidencias/daniel-agrovicman-whatsapp/)
 
 ### Cortex — La Secuencia
-<Una frase: qué problema resuelve y para quién.>
-<Un resultado concreto.>
+En faena minera, el control de ingreso se apoyaba en listas en papel e inspección visual
+del supervisor: ni objetivo ni reproducible ante una auditoría tras un incidente. Cortex
+mide el estado psicomotriz del operador en menos de cuatro minutos antes de que tome el
+control de maquinaria pesada, con registro inalterable y trazabilidad por contratista.
+
+**En producción**, operación diaria con ~25 operadores en dos turnos. 305 pruebas
+automatizadas cubren las reglas de decisión de seguridad.
 
 → [Ver documentación](evidencias/daniel-cortex/)
 
