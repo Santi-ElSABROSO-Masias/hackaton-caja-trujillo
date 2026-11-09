@@ -151,5 +151,31 @@ video de demostración del tablero.
 
 ## 7. Capturas
 
-<PENDIENTE: agregar capturas de las tres hojas del tablero y del diagrama del esquema en
-`capturas/`, y enlazarlas aquí>
+### Hoja 1 — Ventas y rotación de productos
+
+![Hoja de ventas y rotación: volumen por categoría, transacciones por producto y serie mensual](capturas/01-ventas-y-rotacion.png)
+
+*8.500 unidades vendidas en 3.500 transacciones. La serie mensual es el hallazgo que
+ordena todas las recomendaciones: pico en marzo, caída sostenida hasta un mínimo en
+septiembre y recuperación en noviembre. Si la compra es pareja todo el año, esa curva es
+dinero inmovilizado medio año. Los filtros por mes y categoría permiten bajar de la
+tendencia general al producto concreto.*
+
+### Hoja 2 — Inventario y productos
+
+![Hoja de inventario: stock por categoría, distribución y dispersión de stock frente a ventas](capturas/02-inventario-y-productos.png)
+
+*La dispersión de abajo a la derecha es la visual más útil del tablero: cruza unidades
+vendidas contra stock, de modo que cada punto arriba y a la izquierda es un producto que
+ocupa capital sin moverse. El gráfico de barras lo nombra — foco LED, llave inglesa y
+ladrillo encabezan el stock acumulado. Pasa de un indicador agregado a una lista de
+compras que corregir.*
+
+### Hoja 3 — Ingresos de almacén
+
+![Hoja de ingresos: ingresos por mes, costo frente a ganancia y volumen por proveedor](capturas/03-ingresos-de-almacen.png)
+
+*Aquí se confronta el abastecimiento con la demanda. "Volumen de ingreso frente a ventas"
+muestra, producto por producto, cuánto entró y cuánto salió: la brecha es el exceso. El
+volumen por proveedor identifica a los tres que concentran los ingresos, que son con
+quienes tiene sentido negociar condiciones.*
