@@ -206,7 +206,15 @@ catálogo completo. Un asistente que improvisa habría prometido las tres cosas.
 La tienda web es la otra mitad del canal. El asistente de WhatsApp atiende la conversación;
 la web sostiene la venta que no empieza en un mensaje.
 
-![Recomendador de café por método de preparación y perfil de taza](capturas/03-web-sommelier.png)
+![Portada de la tienda con la propuesta de origen y trazabilidad](capturas/03-web-portada.png)
+
+*Portada. La propuesta no vende café: vende procedencia. Altitud, área de conservación,
+distrito y año de inicio aparecen antes que cualquier producto, y la barra superior
+anuncia precios visibles sin "consultar" — que es exactamente la fricción que el
+asistente de WhatsApp elimina en el otro canal. Las dos entradas separan al comprador
+final del mayorista desde el primer clic.*
+
+![Recomendador de café por método de preparación y perfil de taza](capturas/04-web-sommelier.png)
 
 *Recomendador guiado. En lugar de exponer el catálogo y dejar al cliente elegir entre
 variedades que no conoce, pregunta dos cosas que sí sabe responder —qué va a preparar y
@@ -214,13 +222,13 @@ qué perfil busca— y devuelve grano, molienda y receta exacta. Es la misma ló
 asistente de WhatsApp aplica en conversación, llevada a la interfaz: nunca el catálogo
 completo, siempre la pregunta que acota.*
 
-![Sección de reseñas de clientes](capturas/04-web-testimonios.png)
+![Sección de reseñas de clientes](capturas/05-web-testimonios.png)
 
 *Reseñas de clientes. Para un café de especialidad vendido en línea, la nota de cata que
 no se puede probar antes de comprar la sustituye la experiencia de otro comprador. Cada
 reseña aparece junto al producto concreto, no suelta.*
 
-![Catálogo de productos con trazabilidad y presentaciones](capturas/05-web-catalogo.png)
+![Catálogo de productos con trazabilidad y presentaciones](capturas/06-web-catalogo.png)
 
 *Catálogo. Cada producto lleva acceso a su trazabilidad, que es el argumento de venta de
 un productor de origen frente a un café industrial, y permite elegir presentación sin
