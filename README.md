@@ -10,10 +10,10 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura y backend | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Daniel Stip Sarmiento Valdez | Backend Engineer | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
 | Bryan Kevin Quispe Puma | Product manager · Project manager | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@BryankqpDev](https://github.com/BryankqpDev) |
-| Lua Almendra Castro Salas | Diseño UX/UI | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
-| Tirza Nicol Buendía González | Ciencia de datos · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
+| Lua Almendra Castro Salas | Frontend Engineer | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
+| Tirza Nicol Buendía González | Data Science · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
 ---
 
