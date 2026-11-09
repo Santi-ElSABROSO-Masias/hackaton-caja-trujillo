@@ -10,8 +10,8 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Reglas de negocio e integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Kevin Quispe Puma | Desarrollo · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Bryan Kevin Quispe Puma | Product manager · Project manager · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Nicol Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 

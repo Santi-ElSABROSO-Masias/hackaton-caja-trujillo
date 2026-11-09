@@ -6,7 +6,7 @@ y cacao de Quillabamba (La Convención, Cusco), con base comercial en Cusco.
 | | |
 |---|---|
 | **Equipo** | Daniel Stip Sarmiento Valdez · Bryan Quispe Puma · Lua Almendra Castro Salas |
-| **Reparto** | Daniel: automatización del flujo, reglas de negocio e integración · Bryan y Lua: diseño UX/UI de la experiencia conversacional |
+| **Reparto** | Daniel: automatización del flujo e integración · Bryan y Lua: diseño UX/UI de la experiencia conversacional |
 | **Contexto** | Cliente real · **Segundo puesto** en una hackathon previa |
 | **Estado** | Construido y funcional. No desplegado en producción |
 | **Naturaleza de los datos** | Datos reales del negocio. Este documento no publica ninguno |
