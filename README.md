@@ -12,11 +12,12 @@ para evadir el control.
 
 ## El equipo
 
-| Integrante | Perfil | Evidencia | GitHub |
+| Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [@BryankqpDev](https://github.com/BryankqpDev) |
-| Tirza Buendía González | Datos y análisis | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@azritB](https://github.com/azritB) |
+| Daniel Stip Sarmiento Valdez | Arquitectura, reglas antifraude, app móvil y backend en Cortex · <APORTE EN AGROVICMAN> | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Bryan Quispe Puma | Desarrollo en Cortex · Diseño UX/UI en Agrovicman | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Lua Almendra Castro Salas | Diseño UX/UI en Agrovicman | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | <PENDIENTE: usuario de GitHub> |
+| Tirza Buendía González | Proyecto de extremo a extremo: modelo de datos, generación del conjunto, KPIs y tablero | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@azritB](https://github.com/azritB) |
 
 ---
 
