@@ -15,7 +15,7 @@ para evadir el control.
 | Integrante | Perfil | Evidencia | GitHub |
 |---|---|---|---|
 | Daniel Stip Sarmiento Valdez | Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 
 ---
 
