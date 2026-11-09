@@ -90,9 +90,6 @@ se venden sobre un cupo finito. La plataforma resuelve ambas: traducción asisti
 idiomas revisable antes de publicar, y una restricción en la base de datos que hace
 imposible vender una plaza que no existe.
 
-Cliente real, **en producción con dominio propio**. 24 endpoints, 8 migraciones
-versionadas, tres idiomas.
-
 → [Ver documentación](evidencias/daniel-arsatours/) · [Visitar el sitio](https://www.arsatourscusco.com/)
 
 ### PregPrior — Estudio de proyectos digitales
@@ -102,8 +99,6 @@ riesgo no es perder el encargo sino recibirlo mal planteado: un cliente que no d
 estrategia de ejecución pide una aplicación cuando lo que necesita es decidir qué
 construir primero. La marca y el sitio existen para explicar qué se vende antes de que lo
 pidan mal.
-
-Iniciativa propia, en fase de lanzamiento.
 
 → [Ver documentación](evidencias/bryan-pregprior/)
 
