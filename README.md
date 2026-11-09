@@ -94,9 +94,10 @@ se venden sobre un cupo finito. La plataforma resuelve ambas: traducción asisti
 idiomas revisable antes de publicar, y una restricción en la base de datos que hace
 imposible vender una plaza que no existe.
 
-Cliente real. 24 endpoints, 8 migraciones versionadas, tres idiomas.
+Cliente real, **en producción con dominio propio**. 24 endpoints, 8 migraciones
+versionadas, tres idiomas.
 
-→ [Ver documentación](evidencias/daniel-arsatours/)
+→ [Ver documentación](evidencias/daniel-arsatours/) · [Visitar el sitio](https://www.arsatourscusco.com/)
 
 ---
 

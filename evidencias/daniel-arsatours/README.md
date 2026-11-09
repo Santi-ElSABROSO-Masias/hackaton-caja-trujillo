@@ -9,6 +9,8 @@ Cusco: catálogo de tours, salidas grupales con cupos y traducción asistida del
 | **Rol en el proyecto** | Arquitectura, backend, modelo de datos y frontend |
 | **Contexto** | Cliente real · ArsaTours, agencia de turismo receptivo en Cusco |
 | **Periodo** | Julio 2026 — noviembre 2026 |
+| **Estado** | **En producción**, con dominio propio |
+| **Sitio en vivo** | [arsatourscusco.com](https://www.arsatourscusco.com/) |
 | **Naturaleza de los datos** | Datos reales del negocio. Este documento no publica ninguno |
 
 ---
@@ -180,7 +182,17 @@ de estructura quedó versionado y es reproducible.
 
 ---
 
-## 6. Capturas
+## 6. El sitio en producción
+
+**[arsatourscusco.com](https://www.arsatourscusco.com/)** — en operación, con dominio propio.
+
+Las salidas grupales que el sistema administra se ven en vivo en la portada, con sus
+cupos disponibles y su fecha. Es la restricción de base de datos descrita arriba,
+funcionando frente al cliente.
+
+---
+
+## 7. Capturas
 
 ![Portada del sitio con el configurador de paquete](capturas/01-inicio-armar-paquete.png)
 
