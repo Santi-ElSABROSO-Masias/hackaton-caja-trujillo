@@ -4,10 +4,6 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 **Desafío al que postulamos:** Riesgos
 
-Las evidencias de este repositorio se presentan desde esa perspectiva: control
-preventivo, trazabilidad para auditoría y diseño frente a un usuario con incentivo
-para evadir el control.
-
 ---
 
 ## El equipo
