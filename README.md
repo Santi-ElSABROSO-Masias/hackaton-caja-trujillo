@@ -10,7 +10,7 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Perfil | Evidencia | GitHub |
 |---|---|---|---|
-| <Nombre> | <Negocio / Datos / Desarrollo> | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@usuario](https://github.com/usuario) |
+| Daniel Stip Sarmiento Valdez/ Bryan Quispe Puma| Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@usuario](https://github.com/usuario) |
 | <Nombre> | | | |
 | <Nombre> | | | |
 
