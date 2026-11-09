@@ -15,8 +15,8 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 | Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Nicol Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
-El equipo cubre las cuatro capas de un producto de principio a fin: arquitectura y
-backend, desarrollo de interfaz, diseño de experiencia, y análisis de datos y modelado.
+El equipo cubre un producto de principio a fin: gestión de producto y proyecto,
+arquitectura y backend, diseño de experiencia e interfaz, y análisis de datos y modelado.
 
 ---
 

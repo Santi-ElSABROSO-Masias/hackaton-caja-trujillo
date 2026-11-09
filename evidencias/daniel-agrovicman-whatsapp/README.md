@@ -6,7 +6,7 @@ y cacao de Quillabamba (La Convención, Cusco), con base comercial en Cusco.
 | | |
 |---|---|
 | **Equipo** | Daniel Stip Sarmiento Valdez · Bryan Quispe Puma · Lua Almendra Castro Salas |
-| **Reparto** | Daniel: automatización del flujo e integración · Bryan y Lua: diseño UX/UI de la experiencia conversacional |
+| **Reparto** | Daniel: automatización del flujo e integración · Bryan: gestión de producto y proyecto, y diseño UX/UI · Lua: diseño UX/UI de la experiencia conversacional |
 | **Contexto** | Cliente real · **Segundo puesto** en una hackathon previa |
 | **Estado** | Construido y funcional. No desplegado en producción |
 | **Naturaleza de los datos** | Datos reales del negocio. Este documento no publica ninguno |
@@ -201,7 +201,7 @@ catálogo completo. Un asistente que improvisa habría prometido las tres cosas.
 
 ### La interfaz web
 
-**Diseño UX/UI: Lua Almendra Castro Salas.**
+**Diseño UX/UI: Lua Almendra Castro Salas y Bryan Kevin Quispe Puma.**
 
 La tienda web es la otra mitad del canal. El asistente de WhatsApp atiende la conversación;
 la web sostiene la venta que no empieza en un mensaje.
