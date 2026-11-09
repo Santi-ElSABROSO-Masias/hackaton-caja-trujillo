@@ -182,7 +182,20 @@ de estructura quedó versionado y es reproducible.
 
 ## 6. Capturas
 
-<PENDIENTE: agregar capturas del sitio público y del panel en `capturas/`>
+![Portada del sitio con el configurador de paquete](capturas/01-inicio-armar-paquete.png)
+
+*Portada. Debajo de la propuesta, un configurador pide solo tres datos —experiencia,
+fecha estimada y número de viajeros— y abre la conversación por WhatsApp con esos datos
+ya cargados. Para una agencia receptiva, el cierre ocurre conversando: la web no intenta
+sustituir esa conversación, la prepara. El selector de idioma y el de tema viven en la
+cabecera, disponibles en todo el recorrido.*
+
+![Catálogo de experiencias con buscador y filtros por categoría](capturas/02-catalogo-experiencias.png)
+
+*Catálogo. Buscador y filtros por categoría —treks, aventura, paquetes, full day,
+vivencial— además de filtros por destino. El contador de experiencias se actualiza con la
+selección, de modo que el viajero sabe cuántas opciones le quedan antes de abrir ninguna.
+Cada categoría es una URL propia, indexable y compartible.*
 
 ---
 

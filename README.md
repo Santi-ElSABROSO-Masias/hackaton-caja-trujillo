@@ -75,7 +75,7 @@ bostezos e inclinación de cuello.
 Entrenado sobre más de 4.000 imágenes reales con XGBoost y Random Forest. Alerta en menos
 de un segundo, incluso con conductores que usan lentes.
 
-→ [Ver documentación](evidencias/tirza-deteccion-somnolencia/)
+→ [Ver documentación](evidencias/tirza-deteccion-somnolencia/) · [Ver demo en video](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link)
 
 ### SUSALUD — Gestión de atención médica
 En un establecimiento de salud pequeño, la información del paciente queda repartida entre

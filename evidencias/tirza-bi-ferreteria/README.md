@@ -9,7 +9,6 @@ de inventario de una ferretería.
 | **Rol en el proyecto** | Proyecto individual: diseño del esquema, generación de datos, definición de KPIs, limpieza y construcción del tablero |
 | **Contexto** | Proyecto de tesis · trabajo individual |
 | **Naturaleza de los datos** | **Sintéticos**, generados a partir del esquema diseñado |
-| **Entregable** | [Carpeta del proyecto, con video de demostración](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link) |
 
 > **Sobre los datos.** Todo el conjunto es sintético. Los hallazgos que aparecen más abajo
 > describen el comportamiento del modelo, no el de un negocio real. Lo que esta evidencia
@@ -145,9 +144,8 @@ concreto y nombra una acción de abastecimiento.
 
 ## 6. Material del proyecto
 
-[Carpeta del proyecto](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link) — tablero en formato
-`.pbix`, conjunto de datos en Excel, diagrama del esquema relacional, documentación y un
-video de demostración del tablero.
+Tablero en formato `.pbix`, conjunto de datos en Excel, diagrama del esquema relacional y
+documentación del proyecto.
 
 ## 7. Capturas
 

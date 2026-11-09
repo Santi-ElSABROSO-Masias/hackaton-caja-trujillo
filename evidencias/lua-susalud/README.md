@@ -64,6 +64,7 @@ gestión desde la que se accede a los procesos principales.
 
 ---
 
-## 4. Capturas
+## 4. Repositorio
 
-<PENDIENTE: agregar capturas de la interfaz en `capturas/`>
+El código y la documentación del proyecto están en
+[luxy-h/SISTEMA-SUSALUD](https://github.com/luxy-h/SISTEMA-SUSALUD).

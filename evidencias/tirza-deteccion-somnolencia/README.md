@@ -9,7 +9,7 @@ cuando aparecen signos de fatiga, usando una cámara común.
 | **Rol en el proyecto** | Proyecto individual: definición del problema, construcción del conjunto de entrenamiento, modelado, evaluación y prototipo funcional |
 | **Contexto** | Proyecto de investigación aplicada |
 | **Naturaleza de los datos** | Más de 4.000 imágenes reales de conductores, etiquetadas en somnoliento y alerta |
-| **Demo en video** | <PENDIENTE: enlace> |
+| **Material del proyecto** | [Carpeta con el video de demostración y capturas](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link) |
 
 ---
 
@@ -126,10 +126,10 @@ somnolencia con alarma activada, y el mismo caso con lentes.
 
 ---
 
-## 6. Demo
+## 6. Material del proyecto
 
-<PENDIENTE: enlace al video>
+**[Carpeta con el video de demostración y las capturas de los tres escenarios](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link)**
 
-## 7. Capturas
-
-<PENDIENTE: agregar capturas de la detección en los tres escenarios>
+El video recorre la detección en funcionamiento: conductor alerta sin alarma, signos
+simulados de somnolencia con la alarma activada, y el mismo caso con un conductor que usa
+lentes.
