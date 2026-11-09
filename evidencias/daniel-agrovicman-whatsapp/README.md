@@ -179,7 +179,7 @@ no de impacto comercial.
 
 ## 6. Demo
 
-<PENDIENTE: enlace al video>
+<[PENDIENTE: enlace al video](https://youtu.be/N10_jb003mM)>
 
 ## 7. Capturas
 
