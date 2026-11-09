@@ -16,6 +16,7 @@ para evadir el control.
 |---|---|---|---|
 | Daniel Stip Sarmiento Valdez | Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
 | Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Tirza Buendía González | Datos y análisis | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@azritB](https://github.com/azritB) |
 
 ---
 
@@ -48,9 +49,20 @@ reglas de decisión de seguridad.
 
 → [Ver documentación](evidencias/daniel-cortex/) · [Ver demo en video](https://youtu.be/5cQqVPp6WrM)
 
+### Dashboard de inteligencia de negocios — Ferretería Salas
+Una ferretería decide qué reponer por costumbre y por disponibilidad del proveedor, sin
+medir rotación ni estacionalidad: el costo no se ve en la caja diaria sino en el capital
+inmovilizado en stock que no se mueve. El proyecto construye el modelo de datos que falta
+—ocho tablas— define cuatro KPIs de abastecimiento y los lleva a un tablero de tres hojas
+que termina en recomendaciones de compra concretas.
+
+Datos **sintéticos**: demuestra el método completo, del esquema a la recomendación, no un
+diagnóstico de un negocio real.
+
+→ [Ver documentación](evidencias/tirza-bi-ferreteria/)
+
 ### <Espacio para otra evidencia>
-<Si alguno de los dos quiere sumar otro proyecto, copiar `evidencias/_PLANTILLA/`
-y enlazarlo aquí.>
+<Para sumar otro proyecto: copiar `evidencias/_PLANTILLA/` y enlazarlo aquí.>
 
 ---
 
@@ -60,7 +72,8 @@ Los proyectos aquí documentados describen arquitectura y decisiones de diseño.
 publica credenciales, endpoints, identificadores de bases de datos, datos de contacto ni
 información comercial de los clientes involucrados.
 
-Las evidencias que usan datos sintéticos lo declaran en su propia ficha.
+Las evidencias que usan datos sintéticos lo declaran en su propia ficha y en el resumen
+de esta portada.
 
 ---
 
