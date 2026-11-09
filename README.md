@@ -1,4 +1,4 @@
-# Twenty 4 — Cajathon Caja Trujillo
+# Twenty 4 - CAJATHON
 
 Evidencias de los proyectos que respaldan la postulación de este equipo.
 
