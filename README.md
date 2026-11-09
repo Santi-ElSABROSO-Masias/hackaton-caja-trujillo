@@ -120,5 +120,3 @@ evidencias/
     README.md      ficha del proyecto
     capturas/      evidencia visual
 ```
-
-Integrantes del equipo: ver [CONTRIBUTING.md](CONTRIBUTING.md).
