@@ -11,7 +11,7 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
 | Daniel Stip Sarmiento Valdez | Arquitectura y backend | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Kevin Quispe Puma | Product manager · Project manager | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [PregPrior](evidencias/bryan-pregprior/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Bryan Kevin Quispe Puma | Product manager · Project manager | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | Lua Almendra Castro Salas | Diseño UX/UI | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Nicol Buendía González | Ciencia de datos · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
@@ -91,16 +91,6 @@ idiomas revisable antes de publicar, y una restricción en la base de datos que 
 imposible vender una plaza que no existe.
 
 → [Ver documentación](evidencias/daniel-arsatours/) · [Visitar el sitio](https://www.arsatourscusco.com/)
-
-### PregPrior — Estudio de proyectos digitales
-Quien dirige producto compite contra dos perfiles más fáciles de explicar: el
-desarrollador, al que se contrata por lo que construye, y la agencia, por su tamaño. El
-riesgo no es perder el encargo sino recibirlo mal planteado: un cliente que no distingue
-estrategia de ejecución pide una aplicación cuando lo que necesita es decidir qué
-construir primero. La marca y el sitio existen para explicar qué se vende antes de que lo
-pidan mal.
-
-→ [Ver documentación](evidencias/bryan-pregprior/)
 
 ---
 
