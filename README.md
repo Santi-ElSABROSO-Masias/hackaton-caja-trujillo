@@ -60,7 +60,7 @@ que termina en recomendaciones de compra concretas.
 Proyecto de tesis, trabajo individual. Datos **sintéticos**: demuestra el método completo,
 del esquema a la recomendación, no un diagnóstico de un negocio real.
 
-→ [Ver documentación](evidencias/tirza-bi-ferreteria/) · [Ver demo en video](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link)
+→ [Ver documentación](evidencias/tirza-bi-ferreteria/) ·
 
 ---
 
