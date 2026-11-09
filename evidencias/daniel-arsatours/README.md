@@ -1,13 +1,13 @@
-# Plataforma de tours y salidas grupales — agencia de turismo en Cusco
+# Plataforma de tours y salidas grupales — ArsaTours
 
-Sitio multilingüe y panel de gestión para una agencia de turismo receptivo: catálogo de
-tours, salidas grupales con cupos y traducción asistida del contenido.
+Sitio multilingüe y panel de gestión para ArsaTours, agencia de turismo receptivo en
+Cusco: catálogo de tours, salidas grupales con cupos y traducción asistida del contenido.
 
 | | |
 |---|---|
 | **Integrante** | Daniel Stip Sarmiento Valdez |
 | **Rol en el proyecto** | Arquitectura, backend, modelo de datos y frontend |
-| **Contexto** | Cliente real · agencia de turismo receptivo en Cusco |
+| **Contexto** | Cliente real · ArsaTours, agencia de turismo receptivo en Cusco |
 | **Periodo** | Julio 2026 — noviembre 2026 |
 | **Naturaleza de los datos** | Datos reales del negocio. Este documento no publica ninguno |
 
@@ -15,8 +15,8 @@ tours, salidas grupales con cupos y traducción asistida del contenido.
 
 ## 1. El problema
 
-Una agencia de turismo receptivo en Cusco vende a un público que no habla español y que
-compra antes de viajar. Eso impone dos exigencias que el negocio no estaba cubriendo.
+ArsaTours vende turismo receptivo en Cusco a un público que no habla español y que compra
+antes de viajar. Eso impone dos exigencias que el negocio no estaba cubriendo.
 
 **El contenido tiene que existir en varios idiomas, y mantenerse.** Un tour no es una
 ficha corta: tiene descripción, itinerario día por día, qué incluye y qué no. Traducir eso
@@ -189,5 +189,5 @@ de estructura quedó versionado y es reproducible.
 ## Nota sobre el contenido publicado
 
 Este documento describe arquitectura y decisiones de diseño. No incluye credenciales,
-endpoints de infraestructura, identificadores de proyecto, datos de clientes ni el nombre
-comercial de la agencia.
+endpoints de infraestructura, identificadores de proyecto ni datos de clientes de la
+agencia.

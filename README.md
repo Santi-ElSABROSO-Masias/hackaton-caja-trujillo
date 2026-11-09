@@ -14,7 +14,7 @@ para evadir el control.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Reglas de negocio e integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Plataforma de tours](evidencias/daniel-plataforma-tours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Reglas de negocio e integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
 | Bryan Quispe Puma | Desarrollo · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
@@ -87,16 +87,16 @@ Proyecto personal, en desarrollo.
 
 → [Ver documentación](evidencias/lua-susalud/)
 
-### Plataforma de tours y salidas grupales
-Una agencia de turismo en Cusco vende a viajeros que no hablan español y compran antes de
-llegar: el contenido debe existir en varios idiomas y mantenerse, y las salidas grupales
+### Plataforma de tours y salidas grupales — ArsaTours
+Una agencia de turismo receptivo en Cusco vende a viajeros que no hablan español y compran
+antes de llegar: el contenido debe existir en varios idiomas y mantenerse, y las salidas grupales
 se venden sobre un cupo finito. La plataforma resuelve ambas: traducción asistida a tres
 idiomas revisable antes de publicar, y una restricción en la base de datos que hace
 imposible vender una plaza que no existe.
 
 Cliente real. 24 endpoints, 8 migraciones versionadas, tres idiomas.
 
-→ [Ver documentación](evidencias/daniel-plataforma-tours/)
+→ [Ver documentación](evidencias/daniel-arsatours/)
 
 ---
 
