@@ -11,7 +11,7 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
 | Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Kevin Quispe Puma | Product manager · Project manager · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Bryan Kevin Quispe Puma | Product manager · Project manager · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [PregPrior](evidencias/bryan-pregprior/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Nicol Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
@@ -94,6 +94,18 @@ Cliente real, **en producción con dominio propio**. 24 endpoints, 8 migraciones
 versionadas, tres idiomas.
 
 → [Ver documentación](evidencias/daniel-arsatours/) · [Visitar el sitio](https://www.arsatourscusco.com/)
+
+### PregPrior — Estudio de proyectos digitales
+Quien dirige producto compite contra dos perfiles más fáciles de explicar: el
+desarrollador, al que se contrata por lo que construye, y la agencia, por su tamaño. El
+riesgo no es perder el encargo sino recibirlo mal planteado: un cliente que no distingue
+estrategia de ejecución pide una aplicación cuando lo que necesita es decidir qué
+construir primero. La marca y el sitio existen para explicar qué se vende antes de que lo
+pidan mal.
+
+Iniciativa propia, en fase de lanzamiento.
+
+→ [Ver documentación](evidencias/bryan-pregprior/)
 
 ---
 
