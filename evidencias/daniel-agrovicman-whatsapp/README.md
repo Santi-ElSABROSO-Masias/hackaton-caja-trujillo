@@ -183,7 +183,21 @@ no de impacto comercial.
 
 ## 7. Capturas
 
-<PENDIENTE: agregar capturas en `capturas/` y enlazarlas aquí>
+![Modo administrativo: resumen de inventario consultado por la dueña](capturas/01-panel-administrativo.png)
+
+*Modo administrativo. La dueña pregunta por voz y el asistente responde con el estado del
+inventario desglosado por categoría y ubicación. El prefijo 🤖 marca cada mensaje dirigido
+a ella: la distingue del flujo de venta y evita que el filtro anti-bucle reprocese la
+respuesta del propio sistema. Los datos del resumen salen de la hoja de inventario, no del
+modelo.*
+
+![Modo cliente: el asistente distingue entre stock confirmado y pendiente](capturas/02-conversacion-cliente.png)
+
+*Modo cliente. Es la captura que mejor muestra la regla central del diseño: ante una
+consulta de stock, el asistente separa lo que tiene confirmado de lo que no, y para el
+resto escala a la dueña por estar el inventario en la otra ciudad. Cuando el cliente pide
+una recomendación, recomienda únicamente sobre lo confirmado en lugar de ofrecer el
+catálogo completo. Un asistente que improvisa habría prometido las tres cosas.*
 
 ---
 
