@@ -6,11 +6,11 @@ y cacao de Quillabamba (La Convención, Cusco), con base comercial en Cusco.
 | | |
 |---|---|
 | **Equipo** | Daniel Stip Sarmiento Valdez · Bryan Quispe Puma · Lua Almendra Castro Salas |
-| **Reparto** | Daniel: <APORTE> · Bryan y Lua: diseño UX/UI de la experiencia conversacional |
-| **Contexto** | Cliente real · Hackathon <NOMBRE>, <AÑO> — **segundo puesto** |
+| **Reparto** | Daniel: automatización del flujo, reglas de negocio e integración · Bryan y Lua: diseño UX/UI de la experiencia conversacional |
+| **Contexto** | Cliente real · **Segundo puesto** en una hackathon previa |
 | **Estado** | Construido y funcional. No desplegado en producción |
 | **Naturaleza de los datos** | Datos reales del negocio. Este documento no publica ninguno |
-| **Demo en video** | <PENDIENTE: pegar enlace> |
+| **Demo en video** | [Ver demostración](https://youtu.be/N10_jb003mM) |
 
 ---
 
@@ -136,22 +136,18 @@ la conversación.
 
 ### Resultado obtenido
 
-**Segundo puesto** en <NOMBRE DE LA HACKATHON>, <AÑO>, con este proyecto. El sistema quedó
-construido y funcional; no llegó a operar en producción con el negocio.
+**Segundo puesto** en una hackathon previa con este proyecto. El sistema quedó construido
+y funcional; no llegó a operar en producción con el negocio.
 
 ### Validación funcional
 
 | Indicador | Resultado | Cómo se midió |
 |---|---|---|
-| Cobertura del catálogo | <N> variedades y presentaciones | Conteo sobre la hoja de inventario |
-| Precios inventados en pruebas | 0 | <N> consultas de precio contra el flujo completo |
-| Reconocimiento de sinónimos | <N> variantes resueltas | Pruebas con las formas que usan los clientes |
-| Mensajes de audio transcritos | <N> pruebas | Notas de voz reales del canal |
+| Cobertura del catálogo | 22 productos activos: 13 de café, 5 de cacao y chocolate, 4 por quintal | Consulta del asistente contra la hoja de inventario |
+| Precios respondidos de memoria | Ninguno | Toda cifra se consulta en la hoja; sin dato, el flujo escala en lugar de responder |
+| Reconocimiento de sinónimos | 5 grupos de variantes del habla del cliente | Formas recogidas de conversaciones reales del canal |
+| Entrada por voz | Transcripción de notas de audio | Formato dominante del canal, atendido sin intervención |
 | Disponibilidad de atención | 24 h | Frente a atención manual en horario de la dueña |
-
-> **Pendiente de completar.** Reemplazar `<N>` con las cifras reales de las pruebas. Si
-> alguna no se midió, borrar la fila: una tabla honesta y corta vale más que una completa
-> y adivinada.
 
 ### Lo que no se puede afirmar
 
@@ -179,7 +175,7 @@ no de impacto comercial.
 
 ## 6. Demo
 
-<[PENDIENTE: enlace al video](https://youtu.be/N10_jb003mM)>
+**[Ver demostración en video](https://youtu.be/N10_jb003mM)**
 
 ## 7. Capturas
 

@@ -14,7 +14,7 @@ para evadir el control.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura, reglas antifraude, app móvil y backend en Cortex · <APORTE EN AGROVICMAN> | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Daniel Stip Sarmiento Valdez | Arquitectura, reglas antifraude, app móvil y backend en Cortex · Automatización, reglas de negocio e integración en Agrovicman | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
 | Bryan Quispe Puma | Desarrollo en Cortex · Diseño UX/UI en Agrovicman | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | Lua Almendra Castro Salas | Diseño UX/UI en Agrovicman | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Buendía González |  | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@azritB](https://github.com/azritB) |
@@ -36,7 +36,7 @@ dueña cuando hace falta.
 
 **Segundo puesto** en hackathon. Construido y funcional.
 
-→ [Ver documentación](evidencias/daniel-agrovicman-whatsapp/)
+→ [Ver documentación](evidencias/daniel-agrovicman-whatsapp/) · [Ver demo en video](https://youtu.be/N10_jb003mM)
 
 ### Cortex — La Secuencia
 En faena minera, el control de ingreso se apoyaba en listas en papel e inspección visual
@@ -61,9 +61,6 @@ Proyecto de tesis, trabajo individual. Datos **sintéticos**: demuestra el méto
 del esquema a la recomendación, no un diagnóstico de un negocio real.
 
 → [Ver documentación](evidencias/tirza-bi-ferreteria/) · [Ver demo en video](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link)
-
-### <Espacio para otra evidencia>
-<Para sumar otro proyecto: copiar `evidencias/_PLANTILLA/` y enlazarlo aquí.>
 
 ---
 
