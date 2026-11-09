@@ -15,9 +15,6 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 | Lua Almendra Castro Salas | Diseño UX/UI | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
 | Tirza Nicol Buendía González | Ciencia de datos · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
-El equipo cubre un producto de principio a fin: gestión de producto y proyecto,
-arquitectura y backend, diseño de experiencia e interfaz, y análisis de datos y modelado.
-
 ---
 
 ## Evidencias
@@ -33,15 +30,17 @@ repartido en dos ciudades. El asistente responde al instante con el precio corre
 tomado del inventario, respeta un piso de negociación y devuelve la conversación a la
 dueña cuando hace falta.
 
-**Segundo puesto** en hackathon. Construido y funcional.
+**Segundo puesto** en hackathon Transforma + Mipyme. Construido y funcional.
 
 → [Ver documentación](evidencias/daniel-agrovicman-whatsapp/) · [Ver demo en video](https://youtu.be/N10_jb003mM)
 
 ### Cortex — La Secuencia
-En faena minera, el control de ingreso se apoyaba en listas en papel e inspección visual
-del supervisor: ni objetivo ni reproducible ante una auditoría tras un incidente. Cortex
-mide el estado psicomotriz del operador antes de que tome el control de maquinaria
-pesada, con registro inalterable y trazabilidad por contratista.
+¿Cómo podemos anticiparnos a accidentes en minería de conductores que generar miles de gastos millonarios y pérdidas humanas con
+accidentes trágicos?. Ahí nace Cortex, un aplicativo que estudia el cansancio físico, corporal, resacas y somnolencias en conductores
+con simples test, probados por neurólogos internacionales en estudios de universidades del extranjero. Creamos un ambiente seguro, sin trampas
+para que los usuarios puedan rendir evaluaciones en tiempo real, con identificación facial y modelos de ML. Hacemos de la minería
+un entorno seguro, para que todos podamos llegar a casa para ver a nuestras familias. El test es tan riguroso, que solo 1 pasada es 
+la única oportunidad que tiene un operador. Somos justos, con las vidas humanas no se juegan.
 
 **En producción**: 505 evaluaciones en los últimos 30 días, 33 operadores activos en dos
 turnos, 14,7 % de resultados no aptos detectados. 305 pruebas automatizadas cubren las
@@ -49,15 +48,14 @@ reglas de decisión de seguridad.
 
 → [Ver documentación](evidencias/daniel-cortex/) · [Ver demo en video](https://youtu.be/5cQqVPp6WrM)
 
-### Dashboard de inteligencia de negocios — Ferretería Salas
+### Análisis Preescriptivo — Ferretería Salas
 Una ferretería decide qué reponer por costumbre y por disponibilidad del proveedor, sin
 medir rotación ni estacionalidad: el costo no se ve en la caja diaria sino en el capital
 inmovilizado en stock que no se mueve. El proyecto construye el modelo de datos que falta
 —ocho tablas— define cuatro KPIs de abastecimiento y los lleva a un tablero de tres hojas
-que termina en recomendaciones de compra concretas.
-
-Proyecto de tesis, trabajo individual. Datos **sintéticos**: demuestra el método completo,
-del esquema a la recomendación, no un diagnóstico de un negocio real.
+que termina en recomendaciones de compra concretas. Eh incluye SCRAPPING para un estudio
+estacional de climas, eventos, proyectos, ferias y demás, para anticiparnos al movimiento
+del stock, pedidos y proveedores de la Ferretería. 
 
 → [Ver documentación](evidencias/tirza-bi-ferreteria/) ·
 
@@ -79,33 +77,19 @@ cuadernos y formatos impresos, y el historial no está a la vista en la siguient
 SUSALUD centraliza pacientes, historias clínicas y atenciones en una base consultable, con
 un panel de indicadores calculados desde los propios registros.
 
-Proyecto personal, en desarrollo.
-
 → [Ver documentación](evidencias/lua-susalud/)
 
-### Plataforma de tours y salidas grupales — ArsaTours
+### Plataforma de tours — ArsaTours
 Una agencia de turismo receptivo en Cusco vende a viajeros que no hablan español y compran
 antes de llegar: el contenido debe existir en varios idiomas y mantenerse, y las salidas grupales
 se venden sobre un cupo finito. La plataforma resuelve ambas: traducción asistida a tres
 idiomas revisable antes de publicar, y una restricción en la base de datos que hace
-imposible vender una plaza que no existe.
+imposible vender una plaza que no existe. Agregamos modelos de predicciones y scraping para realizar
+un estudio de dónde enfocar la financiación de los proyectos turísticos, por fechas, estacionalidad,
+clima. Un plus innovador, frente a otras webs estáticas.
 
 → [Ver documentación](evidencias/daniel-arsatours/) · [Visitar el sitio](https://www.arsatourscusco.com/)
 
----
-
-## Sobre los datos
-
-Los proyectos aquí documentados describen arquitectura y decisiones de diseño. Ninguno
-publica credenciales, endpoints, identificadores de bases de datos, datos de contacto ni
-información comercial de los clientes involucrados.
-
-Las evidencias que usan datos sintéticos lo declaran en su propia ficha y en el resumen
-de esta portada.
-
----
-
-## Cómo está organizado
 
 ```
 evidencias/
