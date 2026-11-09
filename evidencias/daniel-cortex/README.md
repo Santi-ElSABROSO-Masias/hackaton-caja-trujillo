@@ -8,10 +8,10 @@ maquinaria pesada en faena minera.
 | **Integrante** | <TU NOMBRE> |
 | **Rol en el proyecto** | <QUÉ HICISTE TÚ: análisis, arquitectura, desarrollo, reglas de seguridad> |
 | **Contexto** | Cliente real · Operación minera |
-| **Estado** | **En producción.** Operación diaria con ~25 operadores en dos turnos |
+| **Estado** | **En producción.** 33 operadores activos de 37 registrados, dos turnos |
 | **Periodo** | Diciembre 2025 — Noviembre 2026 · versión 1.2 |
 | **Naturaleza de los datos** | Datos reales de faena. Este documento no publica ninguno |
-| **Demo en video** | <PENDIENTE: pegar enlace> |
+| **Demo en video** | [Ver demostración](https://youtu.be/5cQqVPp6WrM) |
 
 ---
 
@@ -168,7 +168,7 @@ datos de otra contratista.*
 | Indicador | Valor |
 |---|---|
 | Estado | En producción, operación diaria |
-| Operadores evaluados por día | ~25, en dos turnos |
+| Operadores activos | 33 de 37 registrados, en dos turnos |
 | Duración de la evaluación | Menos de 4 minutos, 10 pruebas |
 | Versión en faena | 1.2 |
 | Periodo de desarrollo y operación | Dic 2025 — Nov 2026 |
@@ -220,12 +220,23 @@ falla abierta y no interrumpe la operación.
 
 ## 6. Demo
 
-<PENDIENTE: enlace al video>
+**[Ver demostración en video](https://youtu.be/5cQqVPp6WrM)**
 
 ## 7. Capturas
 
-<PENDIENTE: el repositorio no contiene capturas de la interfaz operativa. Tomar capturas
-del panel y de la app, sin datos reales de operadores, y agregarlas en `capturas/`>
+![Panel de operación con indicadores del periodo](capturas/01-panel-operacion.png)
+
+*Panel del supervisor. El índice de aptitud diario se grafica contra el umbral de
+aprobación del 75 %, de modo que una caída sostenida se ve antes de que se traduzca en un
+incidente. Los desbloqueos pendientes y los otorgados aparecen como indicadores propios:
+la excepción es visible y contable, no una vía silenciosa para saltarse el control.*
+
+![Pantalla de registro en el terminal de faena](capturas/02-registro-operador.png)
+
+*Registro en el terminal, previo a la evaluación. El operador queda vinculado a su
+contratista, puesto, supervisor responsable y tipo de equipo antes de rendir la prueba:
+sin esa trazabilidad, un resultado no sirve como evidencia ante una auditoría. El nombre
+del contratista está tapado en esta captura.*
 
 ---
 

@@ -10,8 +10,8 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Perfil | Evidencia | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez/ Bryan Quispe Puma| Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@usuario](https://github.com/usuario) |
-| <Nombre> | | | |
+| Daniel Stip Sarmiento Valdez | Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [@BryankqpDev](https://github.com/BryankqpDev) |
 | <Nombre> | | | |
 
 ---
@@ -39,10 +39,10 @@ del supervisor: ni objetivo ni reproducible ante una auditoría tras un incident
 mide el estado psicomotriz del operador en menos de cuatro minutos antes de que tome el
 control de maquinaria pesada, con registro inalterable y trazabilidad por contratista.
 
-**En producción**, operación diaria con ~25 operadores en dos turnos. 305 pruebas
-automatizadas cubren las reglas de decisión de seguridad.
+**En producción**, con 33 operadores activos en dos turnos. 305 pruebas automatizadas
+cubren las reglas de decisión de seguridad.
 
-→ [Ver documentación](evidencias/daniel-cortex/)
+→ [Ver documentación](evidencias/daniel-cortex/) · [Ver demo en video](https://youtu.be/5cQqVPp6WrM)
 
 ### <Evidencia de otro integrante>
 <Pendiente.>
