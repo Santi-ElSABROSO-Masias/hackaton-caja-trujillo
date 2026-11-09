@@ -179,6 +179,8 @@ no de impacto comercial.
 
 ## 7. Capturas
 
+### El asistente en WhatsApp
+
 ![Modo administrativo: resumen de inventario consultado por la dueña](capturas/01-panel-administrativo.png)
 
 *Modo administrativo. La dueña pregunta por voz y el asistente responde con el estado del
@@ -197,8 +199,38 @@ catálogo completo. Un asistente que improvisa habría prometido las tres cosas.
 
 ---
 
+### La interfaz web
+
+**Diseño UX/UI: Lua Almendra Castro Salas.**
+
+La tienda web es la otra mitad del canal. El asistente de WhatsApp atiende la conversación;
+la web sostiene la venta que no empieza en un mensaje.
+
+![Recomendador de café por método de preparación y perfil de taza](capturas/03-web-sommelier.png)
+
+*Recomendador guiado. En lugar de exponer el catálogo y dejar al cliente elegir entre
+variedades que no conoce, pregunta dos cosas que sí sabe responder —qué va a preparar y
+qué perfil busca— y devuelve grano, molienda y receta exacta. Es la misma lógica que el
+asistente de WhatsApp aplica en conversación, llevada a la interfaz: nunca el catálogo
+completo, siempre la pregunta que acota.*
+
+![Sección de reseñas de clientes](capturas/04-web-testimonios.png)
+
+*Reseñas de clientes. Para un café de especialidad vendido en línea, la nota de cata que
+no se puede probar antes de comprar la sustituye la experiencia de otro comprador. Cada
+reseña aparece junto al producto concreto, no suelta.*
+
+![Catálogo de productos con trazabilidad y presentaciones](capturas/05-web-catalogo.png)
+
+*Catálogo. Cada producto lleva acceso a su trazabilidad, que es el argumento de venta de
+un productor de origen frente a un café industrial, y permite elegir presentación sin
+salir de la tarjeta.*
+
+---
+
 ## Nota sobre el contenido publicado
 
 Este documento describe la arquitectura y las decisiones de diseño. No incluye
-credenciales, endpoints, identificadores de hojas de cálculo, números de contacto, precios
-del negocio ni el prompt operativo del asistente.
+credenciales, endpoints, identificadores de hojas de cálculo, números de contacto ni el
+prompt operativo del asistente. Los precios visibles en las capturas son los de la tienda
+pública; el piso de negociación con que opera el asistente no se publica.
