@@ -8,7 +8,7 @@ cuando aparecen signos de fatiga, usando una cámara común.
 | **Integrante** | Tirza Buendía González |
 | **Rol en el proyecto** | Proyecto individual: definición del problema, construcción del conjunto de entrenamiento, modelado, evaluación y prototipo funcional |
 | **Contexto** | Proyecto de investigación aplicada |
-| **Naturaleza de los datos** | Más de 4.000 imágenes reales de conductores, etiquetadas en somnoliento y alerta |
+| **Naturaleza de los datos** | Dataset con imágenes reales de conductores alertas y con somnolencia |
 | **Material del proyecto** | [Carpeta con el video de demostración y capturas](https://drive.google.com/drive/folders/1uiERyUe1m4T0LvR-3WR8qGOtvRlHc_g6?usp=drive_link) |
 
 ---
@@ -45,49 +45,29 @@ una solución razonable que corre con lo que ya hay instalado, sí.
 
 De ahí se derivan las demás decisiones:
 
-- **Qué observar.** Tres señales faciales medibles con video convencional: cierre de ojos
-  prolongado, bostezos e inclinación involuntaria del cuello. Son los indicadores que la
-  literatura asocia a fatiga y, a la vez, los que una cámara simple puede capturar.
+- **Qué observar.** Estado del conductor.
 - **Qué exigirle al modelo.** La alerta sirve si llega antes del incidente, así que la
   latencia es un requisito, no una métrica secundaria.
-- **Cómo entrenarlo.** Más de 4.000 imágenes reales de conductores, etiquetadas en
-  somnolientos y alertas, en lugar de datos de laboratorio.
 
 **Herramientas y metodologías aplicadas**
 
 | Herramienta / método | Para qué se usó |
 |---|---|
 | Visión por computadora | Extraer indicadores faciales de video en tiempo real |
-| XGBoost y Random Forest | Clasificar el estado del conductor a partir de esas métricas |
-| Conjunto etiquetado de +4.000 imágenes reales | Entrenar sobre condiciones de conducción, no de laboratorio |
-| Prototipo con alerta física (LED y zumbador) | Validar la cadena completa, de la captura a la respuesta |
+| Algoritmos de IA | Clasificar el estado del conductor |
 | Pruebas en escenarios variados | Comprobar el comportamiento con y sin lentes |
 
 ---
 
 ## 3. La solución
 
-**Propuesta de valor:** para una flota de transporte que no puede costear monitoreo
+**Propuesta de valor:** para un transportista que no puede costear monitoreo
 especializado, esto detecta fatiga en el conductor con una cámara común y avisa en menos
 de un segundo — a diferencia de los sistemas existentes, que exigen cámaras infrarrojas y
 cómputo de alta gama.
 
-El sistema observa el rostro del conductor de forma continua. Cuando los indicadores
-cruzan el umbral de fatiga, dispara una alerta física inmediata. Sin sensores adicionales,
+El sistema observa el rostro del conductor de forma continua para alertar de manera inmediata al detectar somnolencia. Sin sensores adicionales,
 sin instrumentar el vehículo.
-
-```mermaid
-flowchart LR
-    A[Cámara convencional] --> B[Extracción de indicadores faciales]
-    B --> C[Cierre de ojos prolongado]
-    B --> D[Bostezo]
-    B --> E[Inclinación de cuello]
-    C --> F{Clasificador}
-    D --> F
-    E --> F
-    F -->|Alerta| G[Señal sonora y luminosa]
-    F -->|Normal| H[Monitoreo continuo]
-```
 
 ---
 
@@ -95,8 +75,6 @@ flowchart LR
 
 | Indicador | Resultado |
 |---|---|
-| Conjunto de entrenamiento | Más de 4.000 imágenes reales etiquetadas |
-| Algoritmos | XGBoost y Random Forest |
 | Precisión | Alta sobre el conjunto de evaluación |
 | Latencia de detección | Menos de 1 segundo |
 | Validación con lentes | La alerta se mantiene con los mismos tres indicadores |
