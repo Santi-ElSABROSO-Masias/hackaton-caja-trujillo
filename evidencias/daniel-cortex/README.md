@@ -53,7 +53,7 @@ De ahí salieron las restricciones que definieron todo:
 - **Hay varias empresas en la misma faena.** Contratistas distintas no pueden ver los
   datos de las demás.
 - **El tiempo de turno es escaso.** La evaluación compite con la producción: diez pruebas
-  en menos de cuatro minutos.
+  en pocos minutos, sin cola en el ingreso.
 
 **Herramientas y metodologías aplicadas**
 
@@ -71,13 +71,13 @@ De ahí salieron las restricciones que definieron todo:
 ## 3. La solución
 
 **Propuesta de valor:** para una operación minera que debe garantizar que nadie opere
-maquinaria pesada en mal estado, esto entrega una medición objetiva en menos de cuatro
+maquinaria pesada en mal estado, esto entrega una medición objetiva en unos seis
 minutos, con registro inalterable y trazabilidad por contratista — a diferencia de la
 inspección visual, que no es reproducible, y del control de alcoholemia, que mide una sola
 causa.
 
 El operador se identifica con verificación facial con prueba de vida, rinde diez pruebas
-cognitivas sorteadas y recibe APTO o NO APTO. El supervisor ve los resultados de su guardia
+cognitivas sorteadas en unos seis minutos y recibe APTO o NO APTO. El supervisor ve los resultados de su guardia
 en tiempo real. El mandante audita la faena completa.
 
 ### Arquitectura
@@ -165,13 +165,27 @@ datos de otra contratista.*
 
 ### Operación real
 
+Cifras del panel de operación, periodo de 30 días al 8 de noviembre de 2026.
+
 | Indicador | Valor |
 |---|---|
-| Estado | En producción, operación diaria |
+| Evaluaciones rendidas | **505** en 30 días |
 | Operadores activos | 33 de 37 registrados, en dos turnos |
-| Duración de la evaluación | Menos de 4 minutos, 10 pruebas |
+| Índice de aptitud promedio | 80,1 %, frente a un umbral de aprobación de 75 % |
+| Distribución de resultados | Apto 81,6 % (412) · No apto 14,7 % (74) · Bloqueado 3,8 % (19) |
+| Duración promedio de la evaluación | 5 m 58 s, 10 pruebas |
+| Desbloqueos otorgados | 4 en el periodo |
 | Versión en faena | 1.2 |
 | Periodo de desarrollo y operación | Dic 2025 — Nov 2026 |
+
+El dato que justifica el sistema es el **14,7 % de no aptos**: uno de cada siete turnos
+empezaba con un operador que la inspección visual habría dejado pasar. Los 19 bloqueos
+son ingresos a maquinaria pesada que no ocurrieron.
+
+Los cuatro desbloqueos otorgados importan tanto como los bloqueos. La excepción existe
+—la operación no puede detenerse por un falso positivo— pero queda registrada, atribuida
+a un supervisor y contada en el panel. Un control sin vía de excepción se termina
+evadiendo por fuera del sistema.
 
 ### Calidad verificable
 

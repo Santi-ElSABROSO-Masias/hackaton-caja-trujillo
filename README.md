@@ -12,7 +12,6 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 |---|---|---|---|
 | Daniel Stip Sarmiento Valdez | Desarrollo | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [Cortex](evidencias/daniel-cortex/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
 | Bryan Quispe Puma | Desarrollo | [Cortex](evidencias/daniel-cortex/) | [@BryankqpDev](https://github.com/BryankqpDev) |
-| <Nombre> | | | |
 
 ---
 
@@ -36,16 +35,18 @@ dueña cuando hace falta.
 ### Cortex — La Secuencia
 En faena minera, el control de ingreso se apoyaba en listas en papel e inspección visual
 del supervisor: ni objetivo ni reproducible ante una auditoría tras un incidente. Cortex
-mide el estado psicomotriz del operador en menos de cuatro minutos antes de que tome el
-control de maquinaria pesada, con registro inalterable y trazabilidad por contratista.
+mide el estado psicomotriz del operador antes de que tome el control de maquinaria
+pesada, con registro inalterable y trazabilidad por contratista.
 
-**En producción**, con 33 operadores activos en dos turnos. 305 pruebas automatizadas
-cubren las reglas de decisión de seguridad.
+**En producción**: 505 evaluaciones en los últimos 30 días, 33 operadores activos en dos
+turnos, 14,7 % de resultados no aptos detectados. 305 pruebas automatizadas cubren las
+reglas de decisión de seguridad.
 
 → [Ver documentación](evidencias/daniel-cortex/) · [Ver demo en video](https://youtu.be/5cQqVPp6WrM)
 
-### <Evidencia de otro integrante>
-<Pendiente.>
+### <Espacio para otra evidencia>
+<Si alguno de los dos quiere sumar otro proyecto, copiar `evidencias/_PLANTILLA/`
+y enlazarlo aquí.>
 
 ---
 
