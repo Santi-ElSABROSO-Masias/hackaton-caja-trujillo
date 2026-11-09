@@ -6,7 +6,7 @@ maquinaria pesada en faena minera.
 | | |
 |---|---|
 | **Equipo** | Daniel Stip Sarmiento Valdez · Bryan Quispe Puma |
-| **Reparto** | La idea original fue de un colega. Daniel y Bryan la llevaron a producción: Daniel definió la arquitectura y las reglas antifraude, y desarrolló la app Android y el backend |
+| **Reparto** | El concepto nació de un colega del equipo; Daniel y Bryan lo construyeron y lo llevaron a producción. Daniel definió la arquitectura y las reglas antifraude, y desarrolló la app Android y el backend |
 | **Contexto** | Cliente real · Operación minera |
 | **Estado** | **En producción.** 33 operadores activos de 37 registrados, dos turnos |
 | **Periodo** | Diciembre 2025 — Noviembre 2026 · versión 1.2 |

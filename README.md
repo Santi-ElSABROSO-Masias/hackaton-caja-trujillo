@@ -14,10 +14,13 @@ para evadir el control.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura, reglas antifraude, app móvil y backend en Cortex · Automatización, reglas de negocio e integración en Agrovicman | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Quispe Puma | Desarrollo en Cortex · Diseño UX/UI en Agrovicman | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
-| Lua Almendra Castro Salas | Diseño UX/UI en Agrovicman | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@luxy-h](https://github.com/luxy-h) |
-| Tirza Buendía González |  | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) | [@azritB](https://github.com/azritB) |
+| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Reglas de negocio e integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Bryan Quispe Puma | Desarrollo · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
+| Tirza Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
+
+El equipo cubre las cuatro capas de un producto de principio a fin: arquitectura y
+backend, desarrollo de interfaz, diseño de experiencia, y análisis de datos y modelado.
 
 ---
 
@@ -61,6 +64,28 @@ Proyecto de tesis, trabajo individual. Datos **sintéticos**: demuestra el méto
 del esquema a la recomendación, no un diagnóstico de un negocio real.
 
 → [Ver documentación](evidencias/tirza-bi-ferreteria/) ·
+
+### Detección de somnolencia al volante
+La somnolencia del conductor explica el 31,8 % de los accidentes de tránsito en el Perú y
+no da aviso: no hay frenos que detengan un cabeceo. Los sistemas de monitoreo existentes
+exigen cámaras infrarrojas y cómputo de alta gama, lo que los deja fuera del alcance de la
+flota promedio. Este modelo detecta fatiga con una cámara común analizando cierre de ojos,
+bostezos e inclinación de cuello.
+
+Entrenado sobre más de 4.000 imágenes reales con XGBoost y Random Forest. Alerta en menos
+de un segundo, incluso con conductores que usan lentes.
+
+→ [Ver documentación](evidencias/tirza-deteccion-somnolencia/)
+
+### SUSALUD — Gestión de atención médica
+En un establecimiento de salud pequeño, la información del paciente queda repartida entre
+cuadernos y formatos impresos, y el historial no está a la vista en la siguiente consulta.
+SUSALUD centraliza pacientes, historias clínicas y atenciones en una base consultable, con
+un panel de indicadores calculados desde los propios registros.
+
+Proyecto personal, en desarrollo.
+
+→ [Ver documentación](evidencias/lua-susalud/)
 
 ---
 
