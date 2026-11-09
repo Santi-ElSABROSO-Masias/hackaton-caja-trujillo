@@ -10,10 +10,10 @@ Evidencias de los proyectos que respaldan la postulación de este equipo.
 
 | Integrante | Aporte | Evidencias | GitHub |
 |---|---|---|---|
-| Daniel Stip Sarmiento Valdez | Arquitectura y backend · Desarrollo móvil · Integración | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
-| Bryan Kevin Quispe Puma | Product manager · Project manager · Diseño UX/UI | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [PregPrior](evidencias/bryan-pregprior/) | [@BryankqpDev](https://github.com/BryankqpDev) |
-| Lua Almendra Castro Salas | Diseño UX/UI · Desarrollo web | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
-| Tirza Nicol Buendía González | Análisis de datos · Modelado y visualización · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
+| Daniel Stip Sarmiento Valdez | Arquitectura y backend | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [ArsaTours](evidencias/daniel-arsatours/) | [@Santi-ElSABROSO-Masias](https://github.com/Santi-ElSABROSO-Masias) |
+| Bryan Kevin Quispe Puma | Product manager · Project manager | [Cortex](evidencias/daniel-cortex/) · [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [PregPrior](evidencias/bryan-pregprior/) | [@BryankqpDev](https://github.com/BryankqpDev) |
+| Lua Almendra Castro Salas | Diseño UX/UI | [Agrovicman](evidencias/daniel-agrovicman-whatsapp/) · [SUSALUD](evidencias/lua-susalud/) | [@luxy-h](https://github.com/luxy-h) |
+| Tirza Nicol Buendía González | Ciencia de datos · Aprendizaje automático | [BI Ferretería Salas](evidencias/tirza-bi-ferreteria/) · [Detección de somnolencia](evidencias/tirza-deteccion-somnolencia/) | [@azritB](https://github.com/azritB) |
 
 El equipo cubre un producto de principio a fin: gestión de producto y proyecto,
 arquitectura y backend, diseño de experiencia e interfaz, y análisis de datos y modelado.
